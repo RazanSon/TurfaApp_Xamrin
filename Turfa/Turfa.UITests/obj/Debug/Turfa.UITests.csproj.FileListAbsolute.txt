@@ -1,0 +1,9 @@
+/Users/razansonbul/Projects/Turfa/Turfa.UITests/bin/Debug/Turfa.UITests.dll
+/Users/razansonbul/Projects/Turfa/Turfa.UITests/bin/Debug/Turfa.UITests.pdb
+/Users/razansonbul/Projects/Turfa/Turfa.UITests/bin/Debug/nunit.framework.dll
+/Users/razansonbul/Projects/Turfa/Turfa.UITests/bin/Debug/Xamarin.UITest.dll
+/Users/razansonbul/Projects/Turfa/Turfa.UITests/obj/Debug/Turfa.UITests.csprojAssemblyReference.cache
+/Users/razansonbul/Projects/Turfa/Turfa.UITests/obj/Debug/Turfa.UITests.csproj.CoreCompileInputs.cache
+/Users/razansonbul/Projects/Turfa/Turfa.UITests/obj/Debug/Turfa.UITests.csproj.CopyComplete
+/Users/razansonbul/Projects/Turfa/Turfa.UITests/obj/Debug/Turfa.UITests.dll
+/Users/razansonbul/Projects/Turfa/Turfa.UITests/obj/Debug/Turfa.UITests.pdb

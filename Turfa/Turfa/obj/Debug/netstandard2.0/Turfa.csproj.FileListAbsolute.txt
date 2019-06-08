@@ -1,0 +1,17 @@
+/Users/razansonbul/Projects/Turfa/Turfa/obj/Debug/netstandard2.0/Turfa.csprojAssemblyReference.cache
+/Users/razansonbul/Projects/Turfa/Turfa/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/razansonbul/Projects/Turfa/Turfa/obj/Debug/netstandard2.0/Views/HomePage.xaml.g.cs
+/Users/razansonbul/Projects/Turfa/Turfa/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+/Users/razansonbul/Projects/Turfa/Turfa/obj/Debug/netstandard2.0/Turfa.csproj.CoreCompileInputs.cache
+/Users/razansonbul/Projects/Turfa/Turfa/obj/Debug/netstandard2.0/Turfa.AssemblyInfoInputs.cache
+/Users/razansonbul/Projects/Turfa/Turfa/obj/Debug/netstandard2.0/Turfa.AssemblyInfo.cs
+/Users/razansonbul/Projects/Turfa/Turfa/bin/Debug/netstandard2.0/Turfa.deps.json
+/Users/razansonbul/Projects/Turfa/Turfa/bin/Debug/netstandard2.0/Turfa.dll
+/Users/razansonbul/Projects/Turfa/Turfa/bin/Debug/netstandard2.0/Turfa.pdb
+/Users/razansonbul/Projects/Turfa/Turfa/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/razansonbul/Projects/Turfa/Turfa/obj/Debug/netstandard2.0/Turfa.dll
+/Users/razansonbul/Projects/Turfa/Turfa/obj/Debug/netstandard2.0/Turfa.pdb
+/Users/razansonbul/Projects/Turfa/Turfa/obj/Debug/netstandard2.0/Views/DetailPage.xaml.g.cs
+/Users/razansonbul/Projects/Turfa/Turfa/obj/Debug/netstandard2.0/Views/Sweets.xaml.g.cs
+/Users/razansonbul/Projects/Turfa/Turfa/obj/Debug/netstandard2.0/Views/Healthy.xaml.g.cs
+/Users/razansonbul/Projects/Turfa/Turfa/obj/Debug/netstandard2.0/Views/Sours.xaml.g.cs

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="Turfa.Views.Sours"
+             NavigationPage.HasNavigationBar="true"
+             Title="Sours">
+    <ContentPage.Content>
+        
+       <ListView x:Name="itemlist" ItemsSource="{Binding SoursList}" HasUnevenRows="True" ItemTapped="Handle_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid >
+                            <Image Source="{Binding Image}" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Aspect="AspectFill" Opacity="0.7" HeightRequest="350" Margin="0,0,0,5"/>
+                            <StackLayout VerticalOptions="Center">
+                            <Label Text="{Binding Name}" HorizontalOptions="CenterAndExpand" TextColor="White" FontAttributes="Bold" FontSize="Large" VerticalTextAlignment="Center" VerticalOptions="CenterAndExpand"/>
+                            <Label Text="{Binding Price}" FontSize="Large" TextColor="White" HorizontalOptions="CenterAndExpand" VerticalTextAlignment="Center" VerticalOptions="CenterAndExpand"/> 
+                            </StackLayout>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+    </ContentPage.Content>
+</ContentPage>

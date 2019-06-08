@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{DCDE05A0-F2E6-4E76-B264-64220D9F3056}|Default">
+  <MonoDevelop.Ide.ItemProperties.Turfa.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008020-0002551A1404002E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Turfa/Views/LoginPage.xaml.cs">
+    <Files>
+      <File FileName="Turfa/Views/LoginPage.xaml" />
+      <File FileName="Turfa/Views/LoginPage.xaml.cs" Line="27" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Turfa" expanded="True">
+            <Node name=".vs" expanded="True" />
+            <Node name="Turfa" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="DetailPage.xaml" expanded="True" />
+                <Node name="Healthy.xaml" expanded="True" />
+                <Node name="HomePage.xaml" expanded="True" />
+                <Node name="LoginPage.xaml" expanded="True">
+                  <Node name="LoginPage.xaml.cs" selected="True" />
+                </Node>
+                <Node name="Sours.xaml" expanded="True" />
+                <Node name="Sweets.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="Turfa.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Turfa.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Turfa.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.my_device" />
+</Properties>

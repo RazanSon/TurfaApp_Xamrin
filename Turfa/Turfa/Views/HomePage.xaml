@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Turfa.Views.HomePage"
+             NavigationPage.HasNavigationBar="false"
+             BackgroundColor="White"
+             BackgroundImage="BG_01.png" >
+    <ContentPage.Content>
+        <StackLayout >
+            
+        <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+        <Button Text="  SWEETS  " TextColor="White" Clicked="Sweets"
+                BackgroundColor="Black" WidthRequest="130" Margin="0,100,0,0" />
+        <Button Text="  SOURS  " TextColor="White" Clicked="Sours"
+                BackgroundColor="Black" Margin="0,30,0,0" WidthRequest="130"/>
+        <Button Text="  HEALTHY  " TextColor="White" Clicked="Healthy"
+                BackgroundColor="Black" Margin="0,30,0,0" WidthRequest="130"/>
+                
+        </StackLayout>
+            <Grid>
+                <Label Text="Follow Us" HorizontalOptions="Center" Margin="0,-30"/>
+                <ImageButton Source="instagram.png"  WidthRequest="40" HeightRequest="35" Clicked="openBrowser" Margin="0,0,0,20"></ImageButton>
+           </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

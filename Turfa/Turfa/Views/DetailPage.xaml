@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Turfa.Views.DetailPage">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Image x:Name="image" HorizontalOptions="CenterAndExpand" Aspect="AspectFill"/>
+            <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand" Padding="10">
+                <Label x:Name="title" TextColor="#A5A5A5" HorizontalOptions="CenterAndExpand" FontAttributes="Bold" FontSize="Large"/>
+                <Label x:Name="Price" TextColor="#A5A5A5" FontSize="Large" HorizontalOptions="End"/>
+            </StackLayout>
+            <Label x:Name="Description" Margin="10" TextColor="#A5A5A5"/>
+            <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Padding="5, 10,5, 0">
+                <ImageButton Source="Phone.png" WidthRequest="40" HeightRequest="50"  Clicked="CallNow" Margin="0,0,30,0"></ImageButton>
+                <ImageButton Source="Mail.png"  WidthRequest="45" HeightRequest="50" Clicked="MailTo" Margin="0,0,30,0"></ImageButton>
+                <ImageButton Source="Location.png"  WidthRequest="45" HeightRequest="50"  Clicked="MapTo" ></ImageButton>
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

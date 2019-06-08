@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Turfa"
+             x:Class="Turfa.Views.LoginPage"
+             NavigationPage.HasNavigationBar="false">
+    <StackLayout VerticalOptions="CenterAndExpand">
+        <!-- Place new controls here -->
+        <Image Source="Turfa.PNG" />
+        <Entry x:Name="un" Margin="50,0,50,0" Placeholder="Enter your username"/>
+        <Entry x:Name="pass" Margin="50,0,50,0" IsPassword="true" Placeholder="Password" />
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+        <Button Text="  Log in  " TextColor="Black"
+                Clicked="LogIn" BackgroundColor="#FCE882" Margin="35,20,20,0"/>
+        <Button Text="  Sign up  " TextColor="Black" BackgroundColor="#FCE882" Margin="20,20,35,0" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>
